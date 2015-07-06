@@ -1,0 +1,8 @@
+Origin: dbk1ng’s repo
+Label: dbk1ng
+Suite: stable
+Version: 1.0
+Codename: dbk1ng’s repo
+Architectures: iphoneos-arm
+Components: main
+Description: fonts ported for iOS devices 
