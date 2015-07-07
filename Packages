@@ -18,10 +18,10 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Daniel B King <danielbking@me.com>
 Filename: debs//com.dbk1ng.sanfranciscoios8_1.0_iphoneos-arm.deb
-Size: 21724474
-MD5sum: 1332FC7DB346BD7CC696CB464EBE7C2D
-SHA1: 2208ACFF59234D6D5079C8314794B1CA7B07337C
-SHA256: 6D31DB9BDA37D01D9322F32D2DEFEF6ADDE37BF3EFADAB1379BB2DDA0FD989B2
+Size: 21724404
+MD5sum: 78b3fe793531918b8bacbca0b87882d1
+SHA1: 4f17bdb0b32659237370cb8868c336d06121a0ca
+SHA256: 0f2fd04dffa1a13f9b971f810e3e4191e2fd8034e11f2e1df9d04e52c7ec0349
 Section: Fonts (iOS 8)
 Description: A non profit port by Daniel B King for the jailbreak community
 Author: Daniel B King <danielbking@me.com>
