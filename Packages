@@ -10,5 +10,6 @@ SHA256: a8afd610d2f40cb98a2e922805a84b91925cbb70abb9ed03c5eb48c36f8ca1f2
 Section: Fonts (iOS 8)
 Description: this is a test
 Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.testfontios8/index.html
 Name: Test Font iOS 8
 
