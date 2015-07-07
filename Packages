@@ -42,5 +42,23 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.avenirios8/index.html
 Name: Avenir iOS 8
 
+Package: com.dbk1ng.ptsansnarrowios8
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.ptsansnarrowios8_1.0_iphoneos-arm.deb
+Size: 12783806
+MD5sum: 3b6b986d51582039708ce9159fbac4f5
+SHA1: 49a468a312cce86eec5429c03616c80a7823cea3
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.ptsansnarrowios8/index.html
+Name: PT Sans Narrow iOS 8
+
+
+
+
+
 
 
