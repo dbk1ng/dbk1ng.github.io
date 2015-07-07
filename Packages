@@ -1,0 +1,13 @@
+Package: com.dbk1ng.testfontios8
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Depends: bytafont2
+Filename: debs//com.dbk1ng.testfontios8.deb
+Size: 9186788 
+MD5sum: EDD3D2F04B3E388C9FCDBFAB6C7CFDAA
+SHA1: A2802E57276E1DC30995D9D486739376561C5744                                      SHA256: A8AFD610D2F40CB98A2E922805A84B91925CBB70ABB9ED03C5EB48C36F8CA1F2
+Description: this is a test
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://decimation.github.io/Depic/<depicfoldername>/index.html
+Name: Test Font iOS 8
