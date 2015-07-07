@@ -56,6 +56,22 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.ptsansnarrowios8/index.html
 Name: PT Sans Narrow iOS 8
 
+Package: com.dbk1ng.sanfranciscoroundedios8
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.sanfranciscoroundedios8_1.0_iphoneos-arm.deb
+Size: 20718212
+MD5sum: e130bd17d8e01d548d5256a143ce5101
+SHA1: bbc62061aa7ca5c38f5395099eb04343eb4695f6
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.sanfranciscoroundedios8/index.html
+Name: San Francisco Rounded iOS 8
+
+
+
 
 
 
