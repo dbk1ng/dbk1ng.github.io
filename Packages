@@ -75,14 +75,16 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Daniel B King <danielbking@me.com>
 Filename: debs//com.dbk1ng.ios7beta1_1.0_iphoneos-arm.deb
-Size: 12939270
-MD5sum: cad7bbddb90e1bf867d7cff539af0b5e
-SHA1: 6c26e3f067875be9d442108cf8a12caa079ce0a4
+Size: 12939282
+MD5sum: e34cca2e61e97b177974f5c0a9f3de4a
+SHA1: a19a349ad866cbd953f67e0d41acca04a85e8c44
 Section: Fonts (iOS 8)
 Description: A non profit port by Daniel B King for the jailbreak community
 Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.ios7beta1/index.html
 Name: iOS 7 beta1
+
+
 
 
 
