@@ -98,6 +98,22 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.cicleios8/index.html
 Name: Cicle iOS 8
 
+Package: com.dbk1ng.beatsbydreios8
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.beatsbydreios8_1.0_iphoneos-arm.deb
+Size: 13499264
+MD5sum: 41db8953cfd0e0efc68bbb59bc80cbaa
+SHA1: f7682c2516d9e6fafae1eca8edbf26e251136dc3
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.beatsbydreios8/index.html
+Name: Beats By Dre iOS 8
+
+
+
 
 
 
