@@ -84,6 +84,20 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.ios7beta1/index.html
 Name: iOS 7 beta1
 
+Package: com.dbk1ng.cicleios8
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.cicleios8_1.0_iphoneos-arm.deb
+Size: 12829114
+MD5sum: 91b4536c42e9ba51a2b4be77953b4080
+SHA1: 9411de92821b4e40229c433929cdfb1c3b5b674b
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.cicleios8/index.html
+Name: Cicle iOS 8
+
 
 
 
