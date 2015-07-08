@@ -112,16 +112,19 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.beatsbydreios8/index.html
 Name: Beats By Dre iOS 8
 
-
-
-
-
-
-
-
-
-
-
+Package: com.dbk1ng.myriadproset
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.myriadproset_1.0_iphoneos-arm.deb
+Size: 17743872
+MD5sum: 9ec57961a43ae889b9b86ab315af0c4e
+SHA1: 9dd2b8ed447c3acf2caaa5d2ae21167edeb24b5e
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.myriadproset/index.html
+Name: Myriad Pro Set
 
 
 
