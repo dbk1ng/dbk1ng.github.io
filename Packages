@@ -210,6 +210,22 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.neutraface/index.html
 Name: Neutraface
 
+Package: com.dbk1ng.neotech
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.neotech_1.0_iphoneos-arm.deb
+Size: 13686406
+MD5sum: 1eda97f196b99a611e5c551ee426cfd0
+SHA1: cbb2e075663805003ab148dddbe330b30314d907
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.neotech/index.html
+Name: Neo Tech
+
+
+
 
 
 
