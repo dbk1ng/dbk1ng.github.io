@@ -243,14 +243,16 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Daniel B King <danielbking@me.com>
 Filename: debs//com.dbk1ng.neutrafacesc_1.0_iphoneos-arm.deb
-Size: 13277716
-MD5sum: 7b3929da660a5ea8f509f450c7a58649 
-SHA1: 050a96f76bf5d5fb7904fa02b9a3ea37639750b5
+Size: 13277714
+MD5sum: f3afd7c4be30493a45bc8d03f0a683b4 
+SHA1: 35338c1ef56b37896a3025ab77c91d3057fde69d
 Section: Fonts (iOS 8)
 Description: A non profit port by Daniel B King for the jailbreak community
 Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.neutrafacesc/index.html
 Name: Neutraface SC
+
+
 
 
 
