@@ -420,6 +420,106 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.maaxrounded/index.html
 Name: Maax Rounded
 
+Package: com.dbk1ng.klavika
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.klavika_1.0_iphoneos-arm.deb
+Size: 13654978
+MD5sum: c26f4b2ec05c4cb34e8d12702e5e4005
+SHA1: 2653ac146ab12ebc1628c429ca0eba7afb4d4860
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.klavika/index.html
+Name: Klavika
+
+Package: com.dbk1ng.labsanspro
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.labsanspro_1.0_iphoneos-arm.deb
+Size: 12831294
+MD5sum: 72139dfdc15aa86d3bbc2dd4d1323c58
+SHA1: c3db2d340a69b22f512683a9f3426157d63309f0
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.labsanspro/index.html
+Name: Lab Sans Pro
+
+Package: com.dbk1ng.oxo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.oxo_1.0_iphoneos-arm.deb
+Size: 13825990
+MD5sum: 8706924b56839a4ce2b75bc1153981a9
+SHA1: 031212b67c489fcb5a177b074930f7db8ba29213
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.oxo/index.html
+Name: Oxo
+
+Package: com.dbk1ng.planer
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.planer_1.0_iphoneos-arm.deb
+Size: 14228376
+MD5sum: 8200d8e7e96814bafabae17d9768c5d1
+SHA1: fc5393f4174f36ec511c91535b6b60edb9ea22f4
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.planer/index.html
+Name: Planer
+
+Package: com.dbk1ng.robotocondensed
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.robotocondensed_1.0_iphoneos-arm.deb
+Size: 16304674
+MD5sum: 50a5184d898bae0ec20b56212100345d
+SHA1: 338537816bf01fcf19f7c5ac7bc542ba6018a7d2
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.robotocondensed/index.html
+Name: Roboto Condensed
+
+Package: com.dbk1ng.zosimo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.zosimo_1.0_iphoneos-arm.deb
+Size: 14049960
+MD5sum: 3950cbe5d355ddab0c7a1a6a2194e873
+SHA1: cb9cd3e2739b949cb9acc4481212d80e693b0a98
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.zosimo/index.html
+Name: Zosimo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
