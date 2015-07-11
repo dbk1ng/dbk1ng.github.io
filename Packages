@@ -252,6 +252,37 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.neutrafacesc/index.html
 Name: Neutraface SC
 
+Package: com.dbk1ng.prelude
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.prelude_1.0_iphoneos-arm.deb
+Size: 16055510
+MD5sum: 896304e89ea19cbcb98c84d8c9831b28  
+SHA1: a86f827e7b4c189c96b9deecf29dca51549e6b09
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.prelude/index.html
+Name: Prelude
+
+Package: com.dbk1ng.textaalt
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.textaalt_1.0_iphoneos-arm.deb
+Size: 14358678
+MD5sum: b2321048b152eb20851d54a8c07e0f14  
+SHA1: cc47c57a5f6481654ae1c0395fbc66cfd4551f9c
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.textaalt/index.html
+Name: Texta Alt
+
+
+
+
 
 
 
