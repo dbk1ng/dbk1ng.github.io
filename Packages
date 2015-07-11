@@ -308,6 +308,41 @@ Author: Mike van Eeckhoutte <mvan68@gmail.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.roboto2014/index.html
 Name: Roboto 2014
 
+Package: com.dbk1ng.avantgardegothic
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.avantgardegothic_1.0_iphoneos-arm.deb
+Size: 9720658
+MD5sum: 05568a3ac6f4e684ac58544f1198b6b9   
+SHA1: 835eb28cc98b3c68da7c8e14cbc71cad3bf3b597
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel Rojas for the jailbreak community
+Author: Daniel Rojas <drojas.info@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.avantgardegothic/index.html
+Name: Avant Garde Gothic
+
+Package: com.dbk1ng.museosans
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.museosans_1.0_iphoneos-arm.deb
+Size: 11563718
+MD5sum: 155ac9b101751b6ba9043c5aeddb14f6   
+SHA1: 8111e69e65106eacc9780da7c765812b9a7b985a
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel Rojas for the jailbreak community
+Author: Daniel Rojas <drojas.info@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.museosans/index.html
+Name: Museo Sans
+
+
+
+
+
+
+
+
 
 
 
