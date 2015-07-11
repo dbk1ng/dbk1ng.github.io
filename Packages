@@ -336,6 +336,54 @@ Author: Daniel Rojas <drojas.me@gmail.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.museosans/index.html
 Name: Museo Sans
 
+Package: com.dbk1ng.glober
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.glober_1.0_iphoneos-arm.deb
+Size: 16820904
+MD5sum: 89e5a3df4ed244c7bd21897e7c5f78b1   
+SHA1: 21a927ae862061f07e4bfa3ad60aa5a853bd1bf3
+Section: Fonts (iOS 8)
+Description: A non profit port by Mike Van Eeckhoutte for the jailbreak community
+Author: Mike van Eeckhoutte <mvan68@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.glober/index.html
+Name: Glober
+
+Package: com.dbk1ng.futura
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.futura_1.0_iphoneos-arm.deb
+Size: 10671386
+MD5sum: 4c3e58e40b871dacc4685c9ac5f80746   
+SHA1: f6929f586871dfb36d7f60cda4880ddc7e1136e3
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel Rojas for the jailbreak community
+Author: Daniel Rojas <drojas.me@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.futura/index.html
+Name: Futura
+
+Package: com.dbk1ng.realistwide
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.realistwide_1.0_iphoneos-arm.deb
+Size: 13010058
+MD5sum: febdd97ba7eff6b8266beeccfbe846ab   
+SHA1: 1341713c37d5bf272e7ac243cfcce8f5956913fe
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.realistwide/index.html
+Name: Realist Wide
+
+
+
+
+
+
+
 
 
 
