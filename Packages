@@ -318,7 +318,7 @@ MD5sum: 05568a3ac6f4e684ac58544f1198b6b9
 SHA1: 835eb28cc98b3c68da7c8e14cbc71cad3bf3b597
 Section: Fonts (iOS 8)
 Description: A non profit port by Daniel Rojas for the jailbreak community
-Author: Daniel Rojas <drojas.info@gmail.com>
+Author: Daniel Rojas <drojas.me@gmail.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.avantgardegothic/index.html
 Name: Avant Garde Gothic
 
@@ -332,9 +332,11 @@ MD5sum: 155ac9b101751b6ba9043c5aeddb14f6
 SHA1: 8111e69e65106eacc9780da7c765812b9a7b985a
 Section: Fonts (iOS 8)
 Description: A non profit port by Daniel Rojas for the jailbreak community
-Author: Daniel Rojas <drojas.info@gmail.com>
+Author: Daniel Rojas <drojas.me@gmail.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.museosans/index.html
 Name: Museo Sans
+
+
 
 
 
