@@ -378,6 +378,52 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.realistwide/index.html
 Name: Realist Wide
 
+Package: com.dbk1ng.geomanist
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.geomanist_1.0_iphoneos-arm.deb
+Size: 13425304
+MD5sum: dbedb692dad899220b4b45ebca5603e4   
+SHA1: 2096a6bdbe827600dc7e7c6b9ad4f6315f7a3ee3
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.geomanist/index.html
+Name: Geomanist
+
+Package: com.dbk1ng.gothamnarrow
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.gothamnarrow_1.0_iphoneos-arm.deb
+Size: 15092598
+MD5sum: 8d75cf3b8d0f5ee3254adb445ac2fbd4   
+SHA1: afcd63f9b8867f5689b837ead36c6578911bb1c9
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.gothamnarrow/index.html
+Name: Gotham Narrow
+
+Package: com.dbk1ng.maaxrounded
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.maaxrounded_1.0_iphoneos-arm.deb
+Size: 14498972
+MD5sum: 9509732719fc46decf820f958df8e122   
+SHA1: bf2dd49a7cd651740ee036ceefeddaf8f50f0b9a
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.maaxrounded/index.html
+Name: Maax Rounded
+
+
+
+
+
 
 
 
