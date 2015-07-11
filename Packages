@@ -280,6 +280,22 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.textaalt/index.html
 Name: Texta Alt
 
+Package: com.dbk1ng.proximanova
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.proximanova_1.0_iphoneos-arm.deb
+Size: 13632652
+MD5sum: d0dfa807f24a7b6541bb0403228b198b   
+SHA1: 7b67a7e11913a6eaa10248e5e70dc4d9c881619a
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.proximanova/index.html
+Name: Proxima Nova
+
+
+
 
 
 
