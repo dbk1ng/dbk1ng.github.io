@@ -504,6 +504,105 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.zosimo/index.html
 Name: Zosimo
 
+Package: com.dbk1ng.aldine
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.aldine_1.0_iphoneos-arm.deb
+Size: 9612866
+MD5sum: 03c699f22212e2354d4c5e2ab1f52d11   
+SHA1: 55f52f1f79018a26f1d96ac2b68461f26284badc
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel Rojas for the jailbreak community
+Author: Daniel Rojas <drojas.me@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.aldine/index.html
+Name: Aldine
+
+Package: com.dbk1ng.avenirnext
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.avenirnext_1.0_iphoneos-arm.deb
+Size: 11077222
+MD5sum: 839c09dae5ae3266b1bdb75da7a7efe3   
+SHA1: 5e2debc2eae5dc46f4b4110b6547cfcf68e0a230
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel Rojas for the jailbreak community
+Author: Daniel Rojas <drojas.me@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.avenirnext/index.html
+Name: Avenir Next
+
+Package: com.dbk1ng.avenirnextcondensed
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.avenirnextcondensed_1.0_iphoneos-arm.deb
+Size: 10217830
+MD5sum: 4f27449aa8281bb69ecc6ce3d5004a17   
+SHA1: 426f72b4457452ff43b783d0fa16638f7f64e113
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel Rojas for the jailbreak community
+Author: Daniel Rojas <drojas.me@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.avenirnextcondensed/index.html
+Name: Avenir Next Condensed
+
+Package: com.dbk1ng.metronovapro
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.metronovapro_1.0_iphoneos-arm.deb
+Size: 12279200
+MD5sum: 6024579009c7392db9d4de7e371564a0   
+SHA1: 66899f0fca74fe13d4e2dc72bd5473940be746ca
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel Rojas for the jailbreak community
+Author: Daniel Rojas <drojas.me@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.metronovapro/index.html
+Name: Metro Nova Pro
+
+Package: com.dbk1ng.mspultralight
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.mspultralight_1.0_iphoneos-arm.deb
+Size: 10327098
+MD5sum: 89633613784defc834ac6c53b92511be   
+SHA1: 808e8e3e1fba49d4accd595f5d145c64196a746b
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel Rojas for the jailbreak community
+Author: Daniel Rojas <drojas.me@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.mspultralight/index.html
+Name: MSP UltraLight
+
+Package: com.dbk1ng.myriadprooriginal
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.myriadprooriginal_1.0_iphoneos-arm.deb
+Size: 11369896
+MD5sum: df46d3f4f67558528d45cc740f371afa   
+SHA1: fc5f96e3a2cf2fe5ae2fc4c3c3430caa8eba6a9b
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel Rojas for the jailbreak community
+Author: Daniel Rojas <drojas.me@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.myriadprooriginal/index.html
+Name: Myriad Pro Original
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
