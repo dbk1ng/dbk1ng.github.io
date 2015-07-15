@@ -593,14 +593,16 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Daniel B King <danielbking@me.com>
 Filename: debs//com.dbk1ng.30aalockglyph_1.0_iphoneos-arm.deb
-Size: 281560
-MD5sum: b6be9ba00c2c65b0f702e529bf986193   
-SHA1: be40dfae43d249a97ec173f98f20bf497bf21320
+Size: 281626
+MD5sum: ad0b3688f63b4895e2e72d1e1fc3b110   
+SHA1: 192a146865d2c13bee4684a062a5922869ebd3e8
 Section: Themes (LockGlyph)
-Description: [WIP] LockGlyph themes to be included in the next 30aa update.
+Description: LockGlyph themes to be included in the next 30aa update.
 Author: tdmd <tdmd@outlook.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.30aalockglyph/index.html
 Name: 30aa LockGlyph
+
+
 
 
 
