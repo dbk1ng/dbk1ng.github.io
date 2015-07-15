@@ -602,6 +602,22 @@ Author: tdmd <tdmd@outlook.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.30aalockglyph/index.html
 Name: 30aa LockGlyph
 
+Package: com.dbk1ng.illest
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.illest_1.0_iphoneos-arm.deb
+Size: 11914
+MD5sum: 072daa23235522115adf9b2fa458f71e   
+SHA1: fb43bcf12692c3103db30e1c6554c44ce7d3e179
+Section: Themes (Zeppelin)
+Description: Illest logo for Zeppelin
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.illest/index.html
+Name: Illest
+
+
+
 
 
 
