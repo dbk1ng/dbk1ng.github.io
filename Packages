@@ -607,9 +607,9 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Daniel B King <danielbking@me.com>
 Filename: debs//com.dbk1ng.illest_1.0_iphoneos-arm.deb
-Size: 11914
-MD5sum: 072daa23235522115adf9b2fa458f71e   
-SHA1: fb43bcf12692c3103db30e1c6554c44ce7d3e179
+Size: 11894
+MD5sum: cd6957e478f144ca7386f29352c77bd9   
+SHA1: bc53f42237c14a95d2ad5999634a07c01f1e5086
 Section: Themes (Zeppelin)
 Description: Illest logo for Zeppelin
 Author: Daniel B King <danielbking@me.com>
@@ -621,14 +621,16 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Daniel B King <danielbking@me.com>
 Filename: debs//com.dbk1ng.neuehaasunicapro_1.0_iphoneos-arm.deb
-Size: 15648588
-MD5sum: 3c2e9b7b7d0ef950c0883c12d44980da
-SHA1: 9edf6d47213e8223c202291f1a81dc02ea5bcaff
+Size: 15648566
+MD5sum: 44a7ebaf601cb17fa567337efa197d89
+SHA1: 08fe441dafbdd76bb36bd4b260fe80577806fef6
 Section: Fonts (iOS 8)
 Description: A non profit port by Daniel B King for the jailbreak community
 Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.neuehaasunicapro/index.html
 Name: Neue Haas Unica Pro
+
+
 
 
 
