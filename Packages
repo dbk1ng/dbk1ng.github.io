@@ -644,6 +644,22 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.macristocracycrownclassic/index.html
 Name: Macristocracy Crown Classic
 
+Package: com.dbk1ng.museosansrounded
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.museosansrounded_1.0_iphoneos-arm.deb
+Size: 15977462
+MD5sum: 87796a7e162de0fe97f8367a982d8bdd
+SHA1: 4af395c878853d9cadc836924ee82b6f4f3021b8
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.museosansrounded/index.html
+Name: Museo Sans Rounded
+
+
+
 
 
 
