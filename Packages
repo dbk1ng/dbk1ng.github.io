@@ -658,6 +658,7 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.museosansrounded/index.html
 Name: Museo Sans Rounded
 
+<<<<<<< HEAD
 Package: com.dbk1ng.bariol
 Version: 1.0
 Architecture: iphoneos-arm
@@ -671,6 +672,37 @@ Description: A non profit port by Daniel B King for the jailbreak community
 Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.bariol/index.html
 Name: Bariol
+=======
+Package: com.dbk1ng.fsmepro
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.fsmepro_1.0_iphoneos-arm.deb
+Size: 13633140
+MD5sum: a6778400627e4b5c5609660684c876dd
+SHA1: e5762130379c7c31542d114c696cd2b138c88e64
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.fsmepro/index.html
+Name: FS Me Pro
+
+Package: com.dbk1ng.sanfranciscolight
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.sanfranciscolight_1.0_iphoneos-arm.deb
+Size: 21667096
+MD5sum: 25a8d2df60a9a273b91e3084cfaa4036
+SHA1: a103d6132f2502b222cb943387bdec131cb75f4e
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.sanfranciscolight/index.html
+Name: San Francisco Light
+
+
+>>>>>>> origin/master
 
 
 
