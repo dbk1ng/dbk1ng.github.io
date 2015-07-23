@@ -700,6 +700,24 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.sanfranciscolight/index.html
 Name: San Francisco Light
 
+Package: com.dbk1ng.customcovers8
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.customcovers8_1.0_iphoneos-arm.deb
+Size: 326664
+MD5sum: 3d02d1976045a20252ba11d4a7b270d0   
+SHA1: 24cb476d692905790d26c435dd383ed9bbd64f71
+Section: Themes (CustomCover)
+Description: Three amazing CustomCover themes by Daniel B King and Elias Keppens
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.customcovers8/index.html
+Name: CustomCovers 8
+
+
+
+
+
 
 
 
