@@ -714,6 +714,22 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.customcovers8/index.html
 Name: CustomCovers 8
 
+Package: com.dbk1ng.sanfranciscoios6
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.sanfranciscoios6_1.0_iphoneos-arm.deb
+Size: 7687750
+MD5sum: 02448159595036a1c4b59c75aa287a90
+SHA1: e89e9fce92f3d60104fdcefaf4e85bc99ba0521d
+Section: Fonts (iOS 6)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.sanfranciscoios6/index.html
+Name: San Francisco iOS 6
+
+
+
 
 
 
