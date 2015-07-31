@@ -742,6 +742,22 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.vinkel/index.html
 Name: Vinkel
 
+Package: com.dbk1ng.elegant
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.elegant_1.0_iphoneos-arm.deb
+Size: 7605434
+MD5sum: d4d4cfef9bfe67041b01e8f13d4fdc3b   
+SHA1: 06db600a224f8ac8904f15f782cdb4d3d57f4d10
+Section: Themes (CustomCover)
+Description: An amazing CustomCover theme for the iPhone 6 and 6 Plus by balderoine
+Author: balderoine <balderoine@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.elegant/index.html
+Name: Elegant
+
+
+
 
 
 
