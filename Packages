@@ -756,6 +756,22 @@ Author: balderoine <balderoine@gmail.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.elegant/index.html
 Name: Elegant
 
+Package: com.dbk1ng.colfax
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.colfax_1.0_iphoneos-arm.deb
+Size: 14694524
+MD5sum: 8e30974cbb98200acbd8fbae41126409
+SHA1: 210dbe5e57a644afde9e0514a2c5c981a1708be1
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.colfax/index.html
+Name: Colfax
+
+
+
 
 
 
