@@ -770,6 +770,22 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.colfax/index.html
 Name: Colfax
 
+Package: com.dbk1ng.americane
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.americane_1.0_iphoneos-arm.deb
+Size: 14353902
+MD5sum: 00579c6849e14ee51ada9045608f1c2d
+SHA1: 3b310062a0883caf91f738043ad01611a72d477f
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.americane/index.html
+Name: Americane
+
+
+
 
 
 
