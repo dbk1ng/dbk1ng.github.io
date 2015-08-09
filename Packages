@@ -784,6 +784,22 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.americane/index.html
 Name: Americane
 
+Package: com.dbk1ng.illestv2
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.illestv2_1.0_iphoneos-arm.deb
+Size: 5812
+MD5sum: 63aafad40e068713795bb25c969059d6   
+SHA1: 7f7243c8fae8bb58d4780b5f78b5a630bec44d8a
+Section: Themes (Zeppelin)
+Description: Version two of the Illest logo for Zeppelin
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.illestv2/index.html
+Name: Illest v2
+
+
+
 
 
 
