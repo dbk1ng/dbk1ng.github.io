@@ -798,6 +798,22 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.illestv2/index.html
 Name: Illest v2
 
+Package: com.dbk1ng.gameofthrones
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.gameofthrones_1.0_iphoneos-arm.deb
+Size: 14895416
+MD5sum: 9f3a344d4ca404422c70996a001080bc
+SHA1: c9c8d9f5718a34e3c5c59c5aa1cd9296d5ca92d1
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.gameofthrones/index.html
+Name: Game of Thrones
+
+
+
 
 
 
