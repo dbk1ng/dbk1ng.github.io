@@ -812,6 +812,22 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.gameofthrones/index.html
 Name: Game of Thrones
 
+Package: com.dbk1ng.macristocracylockglyph
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.macristocracylockglyph_1.0_iphoneos-arm.deb
+Size: 16334
+MD5sum: 6143742d20eb0f80ca77e3868f6a22a1
+SHA1: c515387a04f1bdf289b0897e10ef6a6537bf6b88
+Section: Themes (LockGlyph)
+Description: Macristocracy crown theme for LockGlyph by balderoine
+Author: balderoine <balderoine@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.macristocracylockglyph/index.html
+Name: Macristocracy LockGlyph
+
+
+
 
 
 
