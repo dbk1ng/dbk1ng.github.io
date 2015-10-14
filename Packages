@@ -840,6 +840,22 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.neutraface7/index.html
 Name: Neutraface iOS 7
 
+Package: com.dbk1ng.raggedways
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.raggedways_1.0_iphoneos-arm.deb
+Size: 13820400
+MD5sum: aded3dd3661e168e894bc403daa4cccd
+SHA1: ba89101535872d3612f4b570d7cb2b2591d35954
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.raggedways/index.html
+Name: Raggedways
+
+
+
 
 
 
