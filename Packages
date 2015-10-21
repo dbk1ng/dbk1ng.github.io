@@ -910,6 +910,37 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.sanfranciscolight9/index.html
 Name: San Francisco Light9
 
+Package: com.dbk1ng.myriadsetpro9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.myriadsetpro9_1.0_iphoneos-arm.deb
+Size: 422504
+MD5sum: f0fe2f7e10291366e9307cb6e07ecb25
+SHA1: c16765ee0b95f60898c22686e205862da4a8b009
+Section: Fonts (iOS 9 Tweak Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.myriadsetpro9/index.html
+Name: Myriad Set Pro 9
+
+Package: com.dbk1ng.neotech9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.neotech9_1.0_iphoneos-arm.deb
+Size: 325408
+MD5sum: 5288a2992a42d1f328453705ae1b05ff
+SHA1: fdf1596a0097fb5f7705e1b3b09ab1708c5a56ba
+Section: Fonts (iOS 9 Tweak Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.neotech9/index.html
+Name: Neo Tech 9
+
+
+
+
 
 
 
