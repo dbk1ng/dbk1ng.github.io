@@ -3,9 +3,9 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Daniel B King <danielbking@me.com>
 Filename: debs//com.dbk1ng.testfontios8_1.1_iphoneos-arm.deb
-Size: 698472
-MD5sum: 8896770ed9cd39064d595c0092ddc944
-SHA1: 12dfeeb5838c442ec7b3e9becc3e416bfd85aa14
+Size: 690
+MD5sum: 4fb73b6e18b67561021c3da6a6e5b42c
+SHA1: d955f7f22500bb2a2eaab5d170fd868f561afb30
 Section: Fonts (iOS 8)
 Description: this is a test
 Author: Daniel B King <danielbking@me.com>
