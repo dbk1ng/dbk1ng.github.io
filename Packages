@@ -1,11 +1,11 @@
 Package: com.dbk1ng.ios8testfont
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Daniel B King <danielbking@me.com>
 Filename: debs//com.dbk1ng.ios8testfont_1.0_iphoneos-arm.deb
-Size: 6512882
-MD5sum: 23def3543782d45acdce2603369f57b9
-SHA1: edd734afac317f53431beee75e6421031543c8f4
+Size: 6172792
+MD5sum: c762904e61ca46b1f0ee24749f4bbd88
+SHA1: ce3686f5218102e3fe01dd265ab16998f976470a
 Section: Fonts (iOS 8)
 Description: Upgrade test
 Author: Daniel B King <danielbking@me.com>
@@ -978,6 +978,8 @@ Description: A non profit port by Daniel B King for the jailbreak community
 Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.sanfranciscorounded9/index.html
 Name: San Francisco Rounded 9
+
+
 
 
 
