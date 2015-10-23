@@ -937,6 +937,53 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.neotech9/index.html
 Name: Neo Tech 9
 
+Package: com.dbk1ng.beatsbydre9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.beatsbydre9_1.0_iphoneos-arm.deb
+Size: 234808
+MD5sum: af6e17037f18b19b8c4fdb0bd3c0e2f2
+SHA1: cd4d95ad7b042df7cfbbfe1c72dbe0821a0ed68d
+Section: Fonts (iOS 9 Tweak Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.beatsbydre9/index.html
+Name: Beats By Dre 9
+
+Package: com.dbk1ng.museosansrounded9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.museosansrounded9_1.0_iphoneos-arm.deb
+Size: 456034
+MD5sum: 7974104f9094f3c311c3556e9a610e63
+SHA1: b74f1b5a5f188a95017f5ea4f913d1cc083a7171
+Section: Fonts (iOS 9 Tweak Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.museosansrounded9/index.html
+Name: Museo Sans Rounded 9
+
+Package: com.dbk1ng.sanfranciscorounded9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.sanfranciscorounded9_1.0_iphoneos-arm.deb
+Size: 420352
+MD5sum: 8738208de4a8be1c33eb630a9f508b24
+SHA1: a6e89f9e2f76aec4477fd178dfe87246ee6292f9
+Section: Fonts (iOS 9 Tweak Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.sanfranciscorounded9/index.html
+Name: San Francisco Rounded 9
+
+
+
+
+
+
 
 
 
