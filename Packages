@@ -979,6 +979,72 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.sanfranciscorounded9/index.html
 Name: San Francisco Rounded 9
 
+Package: com.dbk1ng.avenir9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.avenir9_1.0_iphoneos-arm.deb
+Size: 278956
+MD5sum: 5f25e06ed8519cc506e76af636b28dae
+SHA1: d0ea76594c2a0a1e3f253661a6dea6d9039871a9
+Section: Fonts (iOS 9 Tweak Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.avenir9/index.html
+Name: Avenir 9
+
+Package: com.dbk1ng.futura9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.futura9_1.0_iphoneos-arm.deb
+Size: 250620
+MD5sum: 8abafe9157e8f1901eb021d1e7e7e301
+SHA1: 6cf2525e59e242caa924015bb195895aa87d92a5
+Section: Fonts (iOS 9 Tweak Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.futura9/index.html
+Name: Futura 9
+
+Package: com.dbk1ng.neutraface9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.neutraface9_1.0_iphoneos-arm.deb
+Size: 332318
+MD5sum: 8ef19cebb08cb039cd24ffc9e9ae9560
+SHA1: 9bd69da48d14afc917bc9291712a54c607968560
+Section: Fonts (iOS 9 Tweak Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.neutraface9/index.html
+Name: Neutraface 9
+
+Package: com.dbk1ng.texta9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.texta9_1.0_iphoneos-arm.deb
+Size: 348470
+MD5sum: 92e7454897933072857ae5a95cd23c5c
+SHA1: f32a836a1016d90f5d2ebbc694a959efb13e9b4a
+Section: Fonts (iOS 9 Tweak Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.texta9/index.html
+Name: Texta 9
+
+
+
+
+
+
+
+
+
+
+
 
 
 
