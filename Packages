@@ -1035,6 +1035,52 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.texta9/index.html
 Name: Texta 9
 
+Package: com.dbk1ng.applewatch9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.applewatch9_1.0_iphoneos-arm.deb
+Size: 507858
+MD5sum: 6d8bb10cf64683fa776204b95e5c5b3a
+SHA1: 8037a5904174d8d23b10714ccd5258ec85ed37db
+Section: Fonts (iOS 9 Tweak Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.applewatch9/index.html
+Name: Apple Watch 9
+
+Package: com.dbk1ng.gotham9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.gotham9_1.0_iphoneos-arm.deb
+Size: 370572
+MD5sum: e3dc70338943405b8ca1765be624f122
+SHA1: 76a0e26139a63a4846d888af23490ad52c428432
+Section: Fonts (iOS 9 Tweak Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.gotham9/index.html
+Name: Gotham 9
+
+Package: com.dbk1ng.vagrounded9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.vagrounded9_1.0_iphoneos-arm.deb
+Size: 359280
+MD5sum: 821b7877bd75bd648515670e36177b80
+SHA1: 96e17f397093622438b12ba38dbcd49d99e41985
+Section: Fonts (iOS 9 Tweak Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.vagrounded9/index.html
+Name: Vag Rounded 9
+
+
+
+
+
 
 
 
