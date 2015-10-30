@@ -1077,19 +1077,8 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.vagrounded9/index.html
 Name: Vag Rounded 9
 
-Package: com.fontme.fmtestpackage
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Daniel B King <danielbking@me.com>
-Filename: debs//com.fontme.fmtestpackage_1.0_iphoneos-arm.deb
-Size: 698472
-MD5sum: 4a1f06189b3144a52a98ce2f5d68c3c8
-SHA1: c567aa801093ea9ad74cf03cfeed360b7c64b8a5
-Section: Fonts (iOS 9 Tweak Mode)
-Description: This is only a test
-Author: Mike Van Eeckhoutte <mvan68@me.com>
-Depiction: http://dbk1ng.github.io/Depic/com.fontme.fmtestpackage/index.html
-Name: FM testpackage
+
+
 
 
 
