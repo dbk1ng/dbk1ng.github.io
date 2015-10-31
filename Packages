@@ -1,16 +1,16 @@
 Package: com.dbk1ng.ios8testfont
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Daniel B King <danielbking@me.com>
 Filename: debs//com.dbk1ng.ios8testfont_1.0_iphoneos-arm.deb
-Size: 6172792
-MD5sum: c762904e61ca46b1f0ee24749f4bbd88
-SHA1: ce3686f5218102e3fe01dd265ab16998f976470a
+Size: 6172808
+MD5sum: f436abb4812ab7c0e00f5be94efdee1a
+SHA1: e905d73848d1398028ee60c7b24692d10d9a2a63
 Section: Fonts (iOS 8)
-Description: Upgrade test
+Description: Upgrade & Rename Test
 Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.ios8testfont/index.html
-Name: iOS 8 test Font
+Name: iOS 9 test Font
 
 Package: com.dbk1ng.sanfranciscoios8
 Version: 1.0
@@ -1076,6 +1076,8 @@ Description: A non profit port by Daniel B King for the jailbreak community
 Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.vagrounded9/index.html
 Name: Vag Rounded 9
+
+
 
 
 
