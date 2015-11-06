@@ -1077,6 +1077,22 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.vagrounded9/index.html
 Name: Vag Rounded 9
 
+Package: com.dbk1ng.myriadsetproios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.myriadsetproios9_1.0_iphoneos-arm.deb
+Size: 12357606
+MD5sum: ccb26b14979902ebc729bc5bdfa9d2d9
+SHA1: 901616253a818997886ccdbf68f764736b9a3129
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.myriadsetproios9/index.html
+Name: Myriad Set Pro iOS 9
+
+
+
 
 
 
