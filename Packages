@@ -1096,14 +1096,16 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Daniel B King <danielbking@me.com>
 Filename: debs//com.fontme.exo2ios9_1.0_iphoneos-arm.deb
-Size: 10440026
-MD5sum: b10efc0d84666efc8a66335fe19dd69d
-SHA1: 28378b7938bbb04aabc858fcab108f13b8adaff7
+Size: 10439098
+MD5sum: dc634095e24172e84ed4f3f604c6be59
+SHA1: 81c667706ed2e8e0a24f41f1762d849e8bfc674e
 Section: FontMe (iOS 9 Swap Mode)
 Description: Exo 2 is a complete redrawing of Exo, a contemporary geometric sans serif typeface.
 Author: Mike Van Eeckhoutte <mvan68@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.fontme.exo2ios9/index.html
 Name: Exo 2 iOS 9
+
+
 
 
 
