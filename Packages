@@ -1105,6 +1105,22 @@ Author: Mike Van Eeckhoutte <mvan68@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.fontme.exo2ios9/index.html
 Name: Exo 2 iOS 9
 
+Package: com.drojaspro.avenirnextcondensedios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.drojaspro.avenirnextcondensedios9_1.0_iphoneos-arm.deb
+Size: 10574348
+MD5sum: c0402fa49f77458e3ad32d54a6448601
+SHA1: 5817a79cf91b16296c261a92d82983127764fc56
+Section: Fonts (iOS 9 Swap Mode by drojaspro)
+Description: A non profit port by Daniel Rojas for the jailbreak community
+Author: Daniel Rojas <drojas.me@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.drojaspro.avenirnextcondensedios9/index.html
+Name: Avenir Next Condensed iOS 9
+
+
+
 
 
 
