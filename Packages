@@ -1161,6 +1161,37 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.sanfranciscolightios9/index.html
 Name: San Francisco Light iOS 9
 
+Package: com.dbk1ng.neotechios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.neotechios9_1.0_iphoneos-arm.deb
+Size: 13305686
+MD5sum: bcfb68d86be5ee3d8afa2295b6c5e9ec
+SHA1: 51c78d2ae28d56351d04befc576aad07d43a3421
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.neotechios9/index.html
+Name: Neo Tech iOS 9
+
+Package: com.dbk1ng.neutrafaceios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.neutrafaceios9_1.0_iphoneos-arm.deb
+Size: 12404718
+MD5sum: 267175e0a8c269b0cec4042fa0d5c7a7
+SHA1: 9de36b2458408200f4575c2e9bda2282f166d861
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.neutrafaceios9/index.html
+Name: Neutraface iOS 9
+
+
+
+
 
 
 
