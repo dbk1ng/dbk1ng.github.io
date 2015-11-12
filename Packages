@@ -1189,6 +1189,21 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.neutrafaceios9/index.html
 Name: Neutraface iOS 9
 
+Package: com.dbk1ng.calibriios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.calibriios9_1.0_iphoneos-arm.deb
+Size: 18085276
+MD5sum: 7f1a962b4f77cd6bc802e7c1a149b04f
+SHA1: a78968a9ad6e4930f15d4355e7e424076e11643b
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.calibriios9/index.html
+Name: Calibri iOS 9
+
+
 
 
 
