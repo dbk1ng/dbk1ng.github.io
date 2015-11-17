@@ -1176,18 +1176,20 @@ Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.neotechios9/index.html
 Name: Neo Tech iOS 9
 
 Package: com.dbk1ng.neutrafaceios9
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: Daniel B King <danielbking@me.com>
 Filename: debs//com.dbk1ng.neutrafaceios9_1.0_iphoneos-arm.deb
-Size: 12426752
-MD5sum: eadbf0e3de7179b3118734cd3562f866
-SHA1: de5413f439899c67cc5aa7cf10503650fe592ecf
+Size: 12427346
+MD5sum: 8187781f331a66a7eae2b2b824815b59
+SHA1: 686a8a4126f11ee1c9a4a7754ffe0afde383eeaa
 Section: Fonts (iOS 9 Swap Mode)
 Description: A non profit port by Daniel B King for the jailbreak community
 Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.neutrafaceios9/index.html
 Name: Neutraface iOS 9
+
+
 
 
 
