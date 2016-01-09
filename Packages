@@ -1259,6 +1259,22 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.neutrafacescios9/index.html
 Name: Neutraface SC iOS 9
 
+Package: com.dbk1ng.billabongios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.billabongios9_1.0_iphoneos-arm.deb
+Size: 17264456 
+MD5sum: 80c36103c4b9fa9eb83d3c93e0a6a065
+SHA1: dfd0dcce58bee5eec39425a8a45ba51150da1c9c
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.billabongios9/index.html
+Name: Billabong iOS 9
+
+
+
 
 
 
