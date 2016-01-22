@@ -1301,6 +1301,38 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.frutigercondensedlightios9/index.html
 Name: Frutiger Condensed Light iOS 9
 
+Package: com.dbk1ng.natalbadgeios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.natalbadgeios9_1.0_iphoneos-arm.deb
+Size: 6342
+MD5sum: 720f33da7c2074ec3a33219e710e1ca2
+SHA1: 15bb7ca40ff419dd25cb275d1fff6b9681053d30
+Section: Themes (Badges)
+Description: Icon badge for Natal by Danny Waugh, updated for iOS 9 by Daniel B King
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.natalbadgeios9/index.html
+Name: Natal Badge iOS 9
+
+Package: com.dbk1ng.undefeated
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.undefeated_1.0_iphoneos-arm.deb
+Size: 8248
+MD5sum: 0e1e8edd5f5eb4906843408cee4b970c   
+SHA1: 44979932e7150e59b5e674c469ecc41020fb2429
+Section: Themes (Zeppelin)
+Description: Undefeated logo for Zeppelin
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.undefeated/index.html
+Name: Undefeated
+
+
+
+
+
 
 
 
