@@ -1273,6 +1273,38 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.billabongios9/index.html
 Name: Billabong iOS 9
 
+Package: com.dbk1ng.frutigercondensedios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.frutigercondensedios9_1.0_iphoneos-arm.deb
+Size: 12383612 
+MD5sum: 651f69f70a1dc1762dcd8cbde4e84a44
+SHA1: 1ad7f35bb0b0850f4029c21baa93d97bf6198d9c
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.frutigercondensedios9/index.html
+Name: Frutiger Condensed iOS 9
+
+Package: com.dbk1ng.frutigercondensedlightios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.frutigercondensedlightios9_1.0_iphoneos-arm.deb
+Size: 12409876 
+MD5sum: 07c44b8f43ffafce63b7ea2c11309887
+SHA1: c567a7310dc3bed885543ec950f1cf19cfc71ad2
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.frutigercondensedlightios9/index.html
+Name: Frutiger Condensed Light iOS 9
+
+
+
+
+
 
 
 
