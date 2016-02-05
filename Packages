@@ -1329,6 +1329,38 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.undefeated/index.html
 Name: Undefeated
 
+Package: com.dbk1ng.preludeios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.preludeios9_1.0_iphoneos-arm.deb
+Size: 16573810 
+MD5sum: 7032b7ad8291fd3aede7a596c8ccdf30
+SHA1: 8e74fa1799378d8b039d727ce610c67e1999045e
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.preludeios9/index.html
+Name: Prelude iOS 9
+
+Package: com.dbk1ng.pilcrowsoftios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.pilcrowsoftios9_1.0_iphoneos-arm.deb
+Size: 13645456 
+MD5sum: a28001a1085d63a65e10c26446c93a0d
+SHA1: 7f2fa9f9ce94a47bb2418d8ad5b8bc09f38ce66e
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.pilcrowsoftios9/index.html
+Name: Pilcrow Soft iOS 9
+
+
+
+
+
 
 
 
