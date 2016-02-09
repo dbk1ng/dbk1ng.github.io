@@ -1357,6 +1357,23 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.pilcrowsoftios9/index.html
 Name: Pilcrow Soft iOS 9
 
+Package: com.dbk1ng.segoeuiios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.segoeuiios9_1.0_iphoneos-arm.deb
+Size: 11619428 
+MD5sum: 576cafa73ba12f8a4587a1e6ce71f6fe
+SHA1: 8992ab11336ba4872d79766d32078da6ff74604e
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.segoeuiios9/index.html
+Name: Segoe UI iOS 9
+
+
+
+
 
 
 
