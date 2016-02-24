@@ -1371,6 +1371,22 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.segoeuiios9/index.html
 Name: Segoe UI iOS 9
 
+Package: com.fontme.solidoios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.fontme.solidoios9_1.0_iphoneos-arm.deb
+Size: 11178484
+MD5sum: 2c08910ad3aaa17b8a2833b6d190ab7f
+SHA1: 55ce0edd33bc1cc146f95fc341144155bb00f00d
+Section: Fonts (iOS 9 Swap Mode by FontMe)
+Description: Solido is an opentype font that includes both lining and oldstyle figures.
+Author: Mike Van Eeckhoutte <mvan68@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.fontme.solidoios9/index.html
+Name: Solido iOS 9
+
+
+
 
 
 
