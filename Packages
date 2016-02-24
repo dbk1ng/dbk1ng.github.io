@@ -1376,14 +1376,16 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Daniel B King <danielbking@me.com>
 Filename: debs//com.fontme.solidoios9_1.0_iphoneos-arm.deb
-Size: 11177602
-MD5sum: 6cb170b7d15d2510189cd72f0eb5c985
-SHA1: 684dd6efd55fb81f3f278f23b1b0d84a5e219f36
+Size: 11177628
+MD5sum: 664643d23ea88e977b0250da3619ae01
+SHA1: d04307c6696be3ff0ae4e2af9c41e0c329f04cf7
 Section: Fonts (iOS 9 Swap Mode by FontMe)
 Description: Solido is an opentype font that includes both lining and oldstyle figures.
 Author: Mike Van Eeckhoutte <mvan68@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.fontme.solidoios9/index.html
 Name: Solido iOS 9
+
+
 
 
 
