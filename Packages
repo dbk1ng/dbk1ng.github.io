@@ -1392,6 +1392,25 @@ Name: Solido iOS 9
 =======
 >>>>>>> parent of d36288f... adding geomanist
 
+Package: com.dbk1ng.avenirnextios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.avenirnextios9_1.0_iphoneos-arm.deb
+Size: 12564994
+MD5sum: b74d441de74793c30d4348f77e2402f3
+SHA1: 1ae69787eb6cf4daaac9759a334c72c03c69abe9
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.avenirnextios9/index.html
+Name: Avenir Next iOS 9
+
+
+
+
+
+
 
 
 
