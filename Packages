@@ -1385,13 +1385,6 @@ Author: Mike Van Eeckhoutte <mvan68@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.fontme.solidoios9/index.html
 Name: Solido iOS 9
 
-
-<<<<<<< HEAD
-
-
-=======
->>>>>>> origin/master
-
 Package: com.dbk1ng.avenirnextios9
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1405,6 +1398,8 @@ Description: A non profit port by Daniel B King for the jailbreak community
 Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.avenirnextios9/index.html
 Name: Avenir Next iOS 9
+
+
 
 
 
