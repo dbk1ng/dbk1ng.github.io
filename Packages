@@ -1391,13 +1391,15 @@ Architecture: iphoneos-arm
 Maintainer: Daniel B King <danielbking@me.com>
 Filename: debs//com.dbk1ng.avenirnextios9_1.0_iphoneos-arm.deb
 Size: 12564990 
-MD5sum: 001BC33134F1EBEA6DE8EBF05BF96461
-SHA1: C8A31565CBA356013BC4ADA5299A7247F30E3351
+MD5sum: 839C09DAE5AE3266B1BDB75DA7A7EFE3
+SHA1: 5E2DEBC2EAE5DC46F4B4110B6547CFCF68E0A230
 Section: Fonts (iOS 9 Swap Mode)
 Description: A non profit port by Daniel B King for the jailbreak community
 Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.avenirnextios9/index.html
 Name: Avenir Next iOS 9
+
+
 
 
 
