@@ -1120,13 +1120,13 @@ Depiction: http://dbk1ng.github.io/Depic/com.drojaspro.avenirnextcondensedios9/i
 Name: Avenir Next Condensed iOS 9
 
 Package: com.dbk1ng.helveticaneueios9
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: Daniel B King <danielbking@me.com>
 Filename: debs//com.dbk1ng.helveticaneueios9_1.0_iphoneos-arm.deb
-Size: 12624236
-MD5sum: 88c05170d179309813c325de95271023
-SHA1: af0cff86b48c20a5e5a4f4d4c5bd4980df554039
+Size: 12473316
+MD5sum: b57b5ff21afc62c0029764e68cb922ef
+SHA1: 95ab6fa2b866ab88adca2bb432d62006a04b4499
 Section: Fonts (iOS 9 Swap Mode)
 Description: A non profit port by Daniel B King for the jailbreak community
 Author: Daniel B King <danielbking@me.com>
@@ -1412,6 +1412,8 @@ Description: A non profit port by Daniel B King for the jailbreak community
 Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.geomanistios9/index.html
 Name: Geomanist iOS 9
+
+
 
 
 
