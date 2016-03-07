@@ -1134,13 +1134,13 @@ Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.helveticaneueios9/index.html
 Name: Helvetica Neue iOS 9
 
 Package: com.dbk1ng.ios7beta1ios9
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: Daniel B King <danielbking@me.com>
 Filename: debs//com.dbk1ng.ios7beta1ios9_1.0_iphoneos-arm.deb
-Size: 12432912
-MD5sum: 13406a78c9b5564372c5358f8c1b4579
-SHA1: 4b7d64406a5e8b5b6ba9903f3e50836129b53be2
+Size: 12283186
+MD5sum: 338a39d9a8661710b5be14d965b46fd0
+SHA1: 3c3c0dd0686363acc9e4d4f7548c2419f49684b9
 Section: Fonts (iOS 9 Swap Mode)
 Description: A non profit port by Daniel B King for the jailbreak community
 Author: Daniel B King <danielbking@me.com>
@@ -1412,6 +1412,8 @@ Description: A non profit port by Daniel B King for the jailbreak community
 Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.geomanistios9/index.html
 Name: Geomanist iOS 9
+
+
 
 
 
