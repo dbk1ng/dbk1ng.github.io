@@ -1399,6 +1399,22 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.avenirnextios9/index.html
 Name: Avenir Next iOS 9
 
+Package: com.dbk1ng.geomanistios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.geomanistios9_1.0_iphoneos-arm.deb
+Size: 10584982 
+MD5sum: 88ff828d2da233934a5534541a34df0e
+SHA1: 70c8fa0af66d95f1675ac26f91ef5767a9956d9f
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.geomanistios9/index.html
+Name: Geomanist iOS 9
+
+
+
 
 
 
