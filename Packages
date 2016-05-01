@@ -630,13 +630,13 @@ Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.neuehaasunicapro/index.html
 Name: Neue Haas Unica Pro
 
 Package: com.dbk1ng.macristocracycrownclassic
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Daniel B King <danielbking@me.com>
 Filename: debs//com.dbk1ng.macristocracycrownclassic_1.0_iphoneos-arm.deb
-Size: 6600
-MD5sum: c06b6037724c863597854644adc9351b   
-SHA1: ed72285aaa598bcc01f9aa47aaa71c25e66b4eef
+Size: 6562
+MD5sum: 992186023c06a71debca810a3d422645   
+SHA1: 7de04ec2f71f40d9365ffddf2e3e80ba47109b37
 Section: Themes (Zeppelin)
 Description: M* Crown logo for Zeppelin
 Author: Daniel B King <danielbking@me.com>
@@ -1484,13 +1484,13 @@ Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.beatsbydreios9/index.html
 Name: Beats by Dre iOS 9
 
 Package: com.dbk1ng.circularios9
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: Daniel B King <danielbking@me.com>
 Filename: debs//com.dbk1ng.circularios9_1.0_iphoneos-arm.deb
-Size: 11925388 
-MD5sum: c78e86238efe5b672fcc2e1f63c4e35b
-SHA1: c6aaac849ec67617336fe947e21c3221897f0988
+Size: 12020604
+MD5sum: db4ab131dac0d56ef777379c9bdf54a4
+SHA1: 4eae8ee19e56835c1678a2340d591a37773afb34
 Section: Fonts (iOS 9 Swap Mode)
 Description: A non profit port by Daniel B King for the jailbreak community
 Author: Daniel B King <danielbking@me.com>
@@ -1510,6 +1510,24 @@ Description: A non profit port by Daniel B King for the jailbreak community
 Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.neuehaasunicaproios9/index.html
 Name: Neue Haas Unica Pro iOS 9
+
+Package: com.dbk1ng.illestv3
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.illestv3_1.0_iphoneos-arm.deb
+Size: 9284
+MD5sum: 614f3711be5b146b483669f90db18ac0   
+SHA1: 205fd144e6916ed51ecd636bdff0115577a6bd69
+Section: Themes (Zeppelin)
+Description: Version three of the Illest logo for Zeppelin
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.illestv3/index.html
+Name: Illest v3
+
+
+
+
 
 
 
