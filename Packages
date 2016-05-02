@@ -1525,6 +1525,70 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.illestv3/index.html
 Name: Illest v3
 
+Package: com.dbk1ng.cicleios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.cicleios9_1.0_iphoneos-arm.deb
+Size: 12045298 
+MD5sum: 8cb531a57901954c27513e500e300b37
+SHA1: b3058caa01f4091807b12bc054cfc122ca017964
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.cicleios9/index.html
+Name: Cicle iOS 9
+
+Package: com.dbk1ng.klavikaios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.klavikaios9_1.0_iphoneos-arm.deb
+Size: 11395774
+MD5sum: 92c0e9bb70f0fef268f5d3c654859bf8
+SHA1: 15c7e21ec061d9f6e08468e87687d88f179d1ec7
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.klavikaios9/index.html
+Name: Klavika iOS 9
+
+Package: com.dbk1ng.gameofthronesios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.gameofthronesios9_1.0_iphoneos-arm.deb
+Size: 14829870 
+MD5sum: da8ee5924c2f9bd023b7f327c0d2aef9
+SHA1: 80386b467426351dc8dcea513f20563f6605a6b0
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.gameofthronesios9/index.html
+Name: Game of Thrones iOS 9
+
+Package: com.dbk1ng.parispro
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.parispro_1.0_iphoneos-arm.deb
+Size: 14193276
+MD5sum: 191bcf1ed83eb7dbb06b9ed55e8712f9
+SHA1: 9ad07fd2aae1052bcc0a594649bc47bc9caa4a70
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.parispro/index.html
+Name: Paris Pro
+
+
+
+
+
+
+
+
+
 
 
 
