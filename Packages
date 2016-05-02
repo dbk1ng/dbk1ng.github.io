@@ -1096,9 +1096,9 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Daniel B King <danielbking@me.com>
 Filename: debs//com.fontme.exo2ios9_1.0_iphoneos-arm.deb
-Size: 10439102
-MD5sum: ff9dfdb0d248a1b0a505f514d99b3eb2
-SHA1: 30dc6e1bb0d0983f71765827bade2d740308ec11
+Size: 10439126
+MD5sum: 62a794b7e6aaee286e719c6043d5c517
+SHA1: 7fbcb9a6ca3bc6a36633618f0704a2fed6231b31
 Section: Fonts (iOS 9 Swap Mode by FontMe)
 Description: Exo 2 is a complete redrawing of Exo, a contemporary geometric sans serif typeface.
 Author: Mike Van Eeckhoutte <mvan68@me.com>
@@ -1580,6 +1580,9 @@ Description: A non profit port by Daniel B King for the jailbreak community
 Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.parispro/index.html
 Name: Paris Pro
+
+
+
 
 
 
