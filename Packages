@@ -1595,6 +1595,56 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.dindisplayproios9/index.html
 Name: Din Display Pro iOS 9
 
+Package: com.dbk1ng.gillsansios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.gillsansios9_1.0_iphoneos-arm.deb
+Size: 12028310
+MD5sum: 81c740058d73894898bafc8a0a889240
+SHA1: 776bc5cf1986e52dee7ea07d4cd06ec8f13f541d
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.gillsansios9/index.html
+Name: Gill Sans iOS 9
+
+Package: com.dbk1ng.labsansproios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.labsansproios9_1.0_iphoneos-arm.deb
+Size: 11316924
+MD5sum: a0efae2725612467f3f72be44b7bedbf
+SHA1: dbeee653213e9b815a61ee6ad9d64621f125895f
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.labsansproios9/index.html
+Name: Lab Sans Pro iOS 9
+
+Package: com.dbk1ng.textaaltios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.textaaltios9_1.0_iphoneos-arm.deb
+Size: 11809554 
+MD5sum: 863874921472c9f0cb2b448a9e279b9e
+SHA1: bb374681376d994b8a249a2886c4400ed6257122
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.textaaltios9/index.html
+Name: Texta Alt iOS 9
+
+
+
+
+
+
+
+
+
 
 
 
