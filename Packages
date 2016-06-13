@@ -1637,6 +1637,58 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.textaaltios9/index.html
 Name: Texta Alt iOS 9
 
+Package: com.dbk1ng.blanchios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.blanchios9_1.0_iphoneos-arm.deb
+Size: 12052174
+MD5sum: d07aef9d1ce2683c66e53054e92088f7
+SHA1: 3ee34c6797a4537b950a40dc2c71c6f5d88b00cc
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.blanchios9/index.html
+Name: Blanch iOS 9
+
+Package: com.dbk1ng.encoresansproios9
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.encoresansproios9_1.0_iphoneos-arm.deb
+Size: 12743960 
+MD5sum: 83a2237fab391ed64bec96d36744fffe
+SHA1: f3332309ce1172eaa00f1118af3e835a2945f1b2
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.encoresansproios9/index.html
+Name: Encore Sans Pro iOS 9
+
+Package: com.dbk1ng.productsansios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.productsansios9_1.0_iphoneos-arm.deb
+Size: 11656064
+MD5sum: adec9faa8ccc744723a3a008960a8b1b
+SHA1: e6f23858a4e983688082c5154897b368244d1baf
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.productsansios9/index.html
+Name: Product Sans iOS 9
+
+
+
+
+
+
+
+
+
+
+
 
 
 
