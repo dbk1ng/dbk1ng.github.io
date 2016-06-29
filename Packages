@@ -1679,6 +1679,67 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.productsansios9/index.html
 Name: Product Sans iOS 9
 
+Package: com.dbk1ng.blanchios8
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.blanchios8_1.0_iphoneos-arm.deb
+Size: 10352374
+MD5sum: 8f4ca3d034bdc8fa069cb57f693d2eff
+SHA1: ad28a5ddc39d4622083f8ccdbe205aa24acc00b6
+Section: Fonts (iOS 8)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.blanchios8/index.html
+Name: Blanch iOS 8
+
+Package: com.dbk1ng.corporativesansroundedios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.corporativesansroundedios9_1.0_iphoneos-arm.deb
+Size: 12348468
+MD5sum: 2ba6c0f5e4e7c000308ff1f24ca10c1f
+SHA1: eb7795114dbce254837734ab1242941865a416e1
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.corporativesansroundedios9/index.html
+Name: Corporative Sans Rounded iOS 9
+
+Package: com.dbk1ng.planerios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.planerios9_1.0_iphoneos-arm.deb
+Size: 13345206
+MD5sum: a1a1fa5bb36e3607814b92ecf2b65020
+SHA1: a7f04bcaff238845edb2a176f008cfdf5f9e3ba5
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.planerios9/index.html
+Name: Planer iOS 9
+
+Package: com.dbk1ng.sfmonoios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.sfmonoios9_1.0_iphoneos-arm.deb
+Size: 12247450
+MD5sum: 0d8c6f653787e452e82ee693af51a058
+SHA1: 07f35892889b05ce5198e182d439c8fa2439a229
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.sfmonoios9/index.html
+Name: SF Mono iOS 9
+
+
+
+
+
+
 
 
 
