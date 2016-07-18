@@ -1722,18 +1722,56 @@ Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.sfmonoios9/index.html
 Name: SF Mono iOS 9
 
 Package: com.dbk1ng.corporativesansroundedios9
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: Daniel B King <danielbking@me.com>
 Filename: debs//com.dbk1ng.corporativesansroundedios9_1.0_iphoneos-arm.deb
-Size: 12348442
-MD5sum: 921b89da42aa1d79ac57be8460db75d5
-SHA1: 461173c0c7c25035876c4b472e1c7e5f0e7bd24c
+Size: 12547600
+MD5sum: bcfc0b65d341c41047f3900b4873d279
+SHA1: 72d518809f0efc5c154722e988350b339bebe3fe
 Section: Fonts (iOS 9 Swap Mode)
 Description: A non profit port by Daniel B King for the jailbreak community
 Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.corporativesansroundedios9/index.html
 Name: Corporative Sans Rounded iOS 9
+
+Package: com.dbk1ng.corporativesansroundedaltios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.corporativesansroundedaltios9_1.0_iphoneos-arm.deb
+Size: 12404286
+MD5sum: 9e86a0181ae8e260b996511370a1edc1
+SHA1: 64a57d5aa1413687a041151df36098ece47c73b1
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.corporativesansroundedaltios9/index.html
+Name: Corporative Sans Rounded Alt iOS 9
+
+Package: com.fontme.omnesios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.fontme.omnesios9_1.0_iphoneos-arm.deb
+Size: 11077898
+MD5sum: 80fba00612c9c0bde1df19116ffc0efa
+SHA1: a35182e9e4fe5a0051281472278fbc3c2af69c02
+Section: Fonts (iOS 9 Swap Mode by FontMe)
+Description: A non profit port by Mike Van Eeckhoutte for the jailbreak community.
+Author: Mike Van Eeckhoutte <mvan68@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.fontme.omnesios9/index.html
+Name: Omnes iOS 9
+
+
+
+
+
+
+
+
+
+
 
 
 
