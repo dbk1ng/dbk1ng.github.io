@@ -1763,6 +1763,40 @@ Author: Mike Van Eeckhoutte <mvan68@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.fontme.omnesios9/index.html
 Name: Omnes iOS 9
 
+Package: com.dbk1ng.omnes9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.omnes9_1.0_iphoneos-arm.deb
+Size: 892268
+MD5sum: 0f3d8c506c1357aa78cf6e6330967f62
+SHA1: 2464269d2b3f4c75041f600ace3b09690f3c4900
+Section: Fonts (iOS 9 Tweak Mode)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.omnes9/index.html
+Name: Omnes9
+
+Package: com.dbk1ng.corporativesansroundedalt9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.corporativesansroundedalt9_1.0_iphoneos-arm.deb
+Size: 926138
+MD5sum: 56f98dc7f8762fa7723e92f09ac531d4
+SHA1: bd9d162ae48981e3ff11a5e3c09aee5a71461e7d
+Section: Fonts (iOS 9 Tweak Mode)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.corporativesansroundedalt9/index.html
+Name: Corporative Sans Rounded Alt9
+
+
+
+
+
+
+
 
 
 
