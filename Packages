@@ -1791,6 +1791,124 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.corporativesansroundedalt9/index.html
 Name: Corporative Sans Rounded Alt9
 
+Package: com.evelyn.alegreyasansios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.evelyn.alegreyasansios9_1.0_iphoneos-arm.deb
+Size: 11786112
+MD5sum: 1afab3f44b1ad208d771634f7d1d920d
+SHA1: 91f1c423591efd3b83b76292a19037106e526cb2
+Section: Fonts (iOS 9 Swap Mode by Evelyn)
+Description: A non profit port by Evelyn Wong for the jailbreak community.
+Author: Evelyn Wong <ev.ynam.w@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.evelyn.alegreyasansios9/index.html
+Name: Alegreya Sans iOS 9
+
+Package: com.evelyn.brandontextios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.evelyn.brandontextios9_1.0_iphoneos-arm.deb
+Size: 14655152
+MD5sum: 35ca7804ef990f381fb3aea3cc651c19
+SHA1: 518668f6b0e51694719f2a8ed862ddf7a5549db6
+Section: Fonts (iOS 9 Swap Mode by Evelyn)
+Description: A non profit port by Evelyn Wong for the jailbreak community.
+Author: Evelyn Wong <ev.ynam.w@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.evelyn.brandontextios9/index.html
+Name: Brandon Text iOS 9
+
+Package: com.evelyn.brokmanios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.evelyn.brokmanios9_1.0_iphoneos-arm.deb
+Size: 9401744
+MD5sum: 81d2571a79fe0409fd448c2c53f934e8
+SHA1: 99059c8fa681148bcea5b7b0b63074495c52eb91
+Section: Fonts (iOS 9 Swap Mode by Evelyn)
+Description: A non profit port by Evelyn Wong for the jailbreak community.
+Author: Evelyn Wong <ev.ynam.w@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.evelyn.brokmanios9/index.html
+Name: Brokman iOS 9
+
+Package: com.evelyn.contesansios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.evelyn.contesansios9_1.0_iphoneos-arm.deb
+Size: 11959786 
+MD5sum: 8fd980d26266fe82f44c990f4b1bfce6
+SHA1: 206d6e34f360ec92b9d95b283b9651830cf4568b
+Section: Fonts (iOS 9 Swap Mode by Evelyn)
+Description: A non profit port by Evelyn Wong for the jailbreak community.
+Author: Evelyn Wong <ev.ynam.w@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.evelyn.contesansios9/index.html
+Name: Conte Sans iOS 9
+
+Package: com.evelyn.ffstradaios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.evelyn.ffstradaios9_1.0_iphoneos-arm.deb
+Size: 11121462
+MD5sum: 2667427a34d9eed9db9de1d81bf44826
+SHA1: b255178680d1528173247208e2806ad4cf20a3d3
+Section: Fonts (iOS 9 Swap Mode by Evelyn)
+Description: A non profit port by Evelyn Wong for the jailbreak community.
+Author: Evelyn Wong <ev.ynam.w@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.evelyn.ffstradaios9/index.html
+Name: FF Strada iOS 9
+
+Package: com.evelyn.metronovaproios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.evelyn.metronovaproios9_1.0_iphoneos-arm.deb
+Size: 9694086
+MD5sum: 63d921e23937e34220510c5fc306b8ec
+SHA1: 5932a644c3f76d21850d5a5761ceb16696f879d8
+Section: Fonts (iOS 9 Swap Mode by Evelyn)
+Description: A non profit port by Evelyn Wong for the jailbreak community.
+Author: Evelyn Wong <ev.ynam.w@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.evelyn.metronovaproios9/index.html
+Name: Metro Nova Pro iOS 9
+
+Package: com.evelyn.novelsansroundedios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.evelyn.novelsansroundedios9_1.0_iphoneos-arm.deb
+Size: 9882418
+MD5sum: a2378a29c38d83be428f47ab50c0c7a6
+SHA1: 053dc95557113eb22739655d88d2c2ada074d136
+Section: Fonts (iOS 9 Swap Mode by Evelyn)
+Description: A non profit port by Evelyn Wong for the jailbreak community.
+Author: Evelyn Wong <ev.ynam.w@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.evelyn.novelsansroundedios9/index.html
+Name: Novel Sans Rounded iOS 9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
