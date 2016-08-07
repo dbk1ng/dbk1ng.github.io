@@ -1791,19 +1791,9 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.corporativesansroundedalt9/index.html
 Name: Corporative Sans Rounded Alt9
 
-Package: com.evelyn.alegreyasansios9
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Daniel B King <danielbking@me.com>
-Filename: debs//com.evelyn.alegreyasansios9_1.0_iphoneos-arm.deb
-Size: 11786112
-MD5sum: 1afab3f44b1ad208d771634f7d1d920d
-SHA1: 91f1c423591efd3b83b76292a19037106e526cb2
-Section: Fonts (iOS 9 Swap Mode by Evelyn)
-Description: A non profit port by Evelyn Wong for the jailbreak community
-Author: Evelyn Wong <ev.ynam.w@gmail.com>
-Depiction: http://dbk1ng.github.io/Depic/com.evelyn.alegreyasansios9/index.html
-Name: Alegreya Sans iOS 9
+
+
+
 
 
 
