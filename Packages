@@ -1889,6 +1889,124 @@ Author: Evelyn Wong <ev.ynam.w@gmail.com>
 Depiction: http://dbk1ng.github.io/Depic/com.evelyn.novelsansroundedios9/index.html
 Name: Novel Sans Rounded iOS 9
 
+Package: com.evelyn.alegreyasansios8
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.evelyn.alegreyasansios8_1.0_iphoneos-arm.deb
+Size: 13948280
+MD5sum: fedca53db5eb7de96b5dec5baf398197
+SHA1: 21d627cfa88fe1405a99b2884e9497512ce42073
+Section: Fonts (iOS 8 by Evelyn)
+Description: A non profit port by Evelyn Wong for the jailbreak community.
+Author: Evelyn Wong <ev.ynam.w@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.evelyn.alegreyasansios8/index.html
+Name: Alegreya Sans iOS 8
+
+Package: com.evelyn.brandontextios8
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.evelyn.brandontextios8_1.0_iphoneos-arm.deb
+Size: 14163224
+MD5sum: 409d9585c449b0b4c904e10f87102510
+SHA1: 8a06693218a5226a40b747e266eb76c6fd55a7f3
+Section: Fonts (iOS 8 by Evelyn)
+Description: A non profit port by Evelyn Wong for the jailbreak community.
+Author: Evelyn Wong <ev.ynam.w@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.evelyn.brandontextios8/index.html
+Name: Brandon Text iOS 8
+
+Package: com.evelyn.brokmanios8
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.evelyn.brokmanios8_1.0_iphoneos-arm.deb
+Size: 15981820
+MD5sum: 2fe5ddaca1692067072d5b1d6bd34665
+SHA1: 7015ce48a6b8aa981f0d8a7e0fe698146b59c785
+Section: Fonts (iOS 8 by Evelyn)
+Description: A non profit port by Evelyn Wong for the jailbreak community.
+Author: Evelyn Wong <ev.ynam.w@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.evelyn.brokmanios8/index.html
+Name: Brokman iOS 8
+
+Package: com.evelyn.contesansios8
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.evelyn.contesansios8_1.0_iphoneos-arm.deb
+Size: 14472932
+MD5sum: a52b3eafe46425c18a2766f0b4ef58d2
+SHA1: 0a7c858f2432ddb20dce7a7562ad031028547964
+Section: Fonts (iOS 8 by Evelyn)
+Description: A non profit port by Evelyn Wong for the jailbreak community.
+Author: Evelyn Wong <ev.ynam.w@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.evelyn.contesansios8/index.html
+Name: Contesans iOS 8
+
+Package: com.evelyn.ffstradaios8
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.evelyn.ffstradaios8_1.0_iphoneos-arm.deb
+Size: 15385194
+MD5sum: 54a28bbd87e5e6f58441bf001bbc3d34
+SHA1: 2b4983e4b3dbe96887826670e29f4d1657674d8f
+Section: Fonts (iOS 8 by Evelyn)
+Description: A non profit port by Evelyn Wong for the jailbreak community.
+Author: Evelyn Wong <ev.ynam.w@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.evelyn.ffstradaios8/index.html
+Name: FF Strada iOS 8
+
+Package: com.evelyn.metronovaproios8
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.evelyn.metronovaproios8_1.0_iphoneos-arm.deb
+Size: 13811754
+MD5sum: e050af7365384395caeb317c0cbab282
+SHA1: 3b25c1c442c7dded9db23a5a88ded3fdb64e4946
+Section: Fonts (iOS 8 by Evelyn)
+Description: A non profit port by Evelyn Wong for the jailbreak community.
+Author: Evelyn Wong <ev.ynam.w@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.evelyn.metronovaproios8/index.html
+Name: Metro Nova Pro iOS 8
+
+Package: com.evelyn.novelsansroundedios8
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.evelyn.novelsansroundedios8_1.0_iphoneos-arm.deb
+Size: 14169520
+MD5sum: 150f46f93832befe45f88a4fe60ec783
+SHA1: e07bc8570f75948c2f246e3e7f6655d5b5b87799
+Section: Fonts (iOS 8 by Evelyn)
+Description: A non profit port by Evelyn Wong for the jailbreak community.
+Author: Evelyn Wong <ev.ynam.w@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.evelyn.novelsansroundedios8/index.html
+Name: Novel Sans Rounded iOS 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
