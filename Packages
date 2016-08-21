@@ -1386,15 +1386,15 @@ Depiction: http://dbk1ng.github.io/Depic/com.fontme.solidoios9/index.html
 Name: Solido iOS 9
 
 Package: com.dbk1ng.avenirnextios9
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: Daniel B King <danielbking@me.com>
 Filename: debs//com.dbk1ng.avenirnextios9_1.0_iphoneos-arm.deb
-Size: 12564990 
-MD5sum: 001bc33134f1ebea6de8ebf05bf96461
-SHA1: c8a31565cba356013bc4ada5299a7247f30e3351
+Size: 13377234
+MD5sum: dd916c8f4f88f923bf086fbfcf18e813
+SHA1: 078b8905b499f289cea6c816442a15bdccdc6f77
 Section: Fonts (iOS 9 Swap Mode)
-Description: A non profit port by Daniel B King for the jailbreak community
+Description: A non profit port by Daniel B King for the jailbreak community.
 Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.avenirnextios9/index.html
 Name: Avenir Next iOS 9
@@ -2014,6 +2014,7 @@ Description: A non profit port by Daniel B King for the jailbreak community.
 Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.johnsansproios9/index.html
 Name: JohnSans Pro iOS 9
+
 
 
 
