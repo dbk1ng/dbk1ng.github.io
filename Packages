@@ -1987,6 +1987,39 @@ Author: Evelyn Wong <ev.ynam.w@gmail.com>
 Depiction: http://dbk1ng.github.io/Depic/com.evelyn.novelsansroundedios8/index.html
 Name: Novel Sans Rounded iOS 8
 
+Package: com.dbk1ng.iskraios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.iskraios9_1.0_iphoneos-arm.deb
+Size: 12206868
+MD5sum: e9a86c06744a36874f4a989c2652787d
+SHA1: 36a63df7a33b25efb4ccbfb5eda23ca9dc8cde43
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.iskraios9/index.html
+Name: Iskra iOS 9
+
+Package: com.dbk1ng.johnsansproios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.johnsansproios9_1.0_iphoneos-arm.deb
+Size: 12996786
+MD5sum: 4c61d04480e6615a5526f75e8e83f9db
+SHA1: c8e1a788c97297e491777edee2159e0c4401a5f7
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.johnsansproios9/index.html
+Name: JohnSans Pro iOS 9
+
+
+
+
+
+
 
 
 
