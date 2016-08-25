@@ -2015,6 +2015,22 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.johnsansproios9/index.html
 Name: JohnSans Pro iOS 9
 
+Package: com.dbk1ng.myriadsetproanemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.myriadsetproanemone_1.0_iphoneos-arm.deb
+Size: 12358020
+MD5sum: 99544453971e0960186b8fcb2292cc67
+SHA1: 9a6934751c619a3b3b73ac1d3fbe4a4076c3fc72
+Section: Fonts (iOS 9 Anemone Fonts)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.myriadsetproanemone/index.html
+Name: Myriad Set Pro Anemone
+
+
+
 
 
 
