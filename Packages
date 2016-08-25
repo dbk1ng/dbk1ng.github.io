@@ -2015,6 +2015,26 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.johnsansproios9/index.html
 Name: JohnSans Pro iOS 9
 
+Package: com.dbk1ng.avenirnextfontforanemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: com.dbk1ng.avenirnexfontforanemone_1.0_iphoneos-arm.deb
+Size: 13377302
+MD5sum: 8593ccb4376e1a1da5408fc3d92d65fb
+SHA1: 3bbc8a22d720261d8ecac4f7178e95c8a5e6d773
+Section: Fonts (iOS 9 for use Amenome Nightly)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.avenirnextfontforamemone/index.html
+Name: Avenir Next Font for Anemone
+
+
+
+
+
+
+
 
 
 
