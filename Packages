@@ -2029,6 +2029,22 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.myriadsetproanemone/index.html
 Name: Myriad Set Pro Anemone
 
+Package: com.dbk1ng.corporativesansroundedanemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.corporativesansrounded_1.0_iphoneos-arm.deb
+Size: 12547288
+MD5sum: 3595c3f65a26d89fe2e1deb67bfcbfa6
+SHA1: 2b5915359b8124f42eaa99d409f44039450c041e
+Section: Fonts (iOS 9 Anemone Fonts)
+Description: A non profit port by Daniel B King for the jailbreak community
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.corporativesansroundedanemone/index.html
+Name: Corporative Sans Rounded Anemone
+
+
+
 
 
 
