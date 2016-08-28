@@ -2057,6 +2057,22 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.ios7beta1anemone/index.html
 Name: iOS 7 beta 1 Anemone
 
+Package: com.dbk1ng.avenirnextanemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.avenirnextanemone_1.0_iphoneos-arm.deb
+Size: 13377050
+MD5sum: 4aaa2d5d355beea6a7d5a24c1ba42ccc
+SHA1: 55d6d73dea22bb946b0abb693b9ca6dcf16cf690
+Section: Fonts (iOS 9 Anemone Fonts)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.avenirnextanemone/index.html
+Name: Avenir Next Anemone
+
+
+
 
 
 
