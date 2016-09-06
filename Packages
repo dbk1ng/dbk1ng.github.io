@@ -2085,6 +2085,43 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.calibrianemone/index.html
 Name: Calibri Anemone
 
+Package: com.dbk1ng.beatsbydreanemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.beatsbydreanemone_1.0_iphoneos-arm.deb
+Size: 11333058
+MD5sum: fb78f4f22bdc179ff1eadc758098d20d
+SHA1: 445d667692df86ceb010e85995e63583e4897a5c
+Section: Fonts (iOS 9 Anemone Fonts)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.beatsbydreanemone/index.html
+Name: Beats by Dre Anemone
+
+Package: com.dbk1ng.bariolanemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.bariolanemone_1.0_iphoneos-arm.deb
+Size: 13628320
+MD5sum: 723f40924417bb46cbcf025c7d4ed4a9
+SHA1: bec76f5548930e7af9f5ce4ccd4a1e0e1c0ecfec
+Section: Fonts (iOS 9 Anemone Fonts)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.bariolanemone/index.html
+Name: Bariol Anemone
+
+
+
+
+
+
+
+
+
+
 
 
 
