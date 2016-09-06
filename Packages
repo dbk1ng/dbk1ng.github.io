@@ -2071,6 +2071,22 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.avenirnextanemone/index.html
 Name: Avenir Next Anemone
 
+Package: com.dbk1ng.calibrianemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.calibrianemone_1.0_iphoneos-arm.deb
+Size: 18085636
+MD5sum: e2da00c2099fbc3d7aa228322fdf19e3
+SHA1: 9f7780d75466720955a42b8381df5f1501aad799
+Section: Fonts (iOS 9 Anemone Fonts)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.calibrianemone/index.html
+Name: Calibri Anemone
+
+
+
 
 
 
