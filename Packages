@@ -2155,6 +2155,24 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.bariolserifanemone/index.html
 Name: Bariol Serif Anemone
 
+Package: com.dbk1ng.neotechanemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.neotechanemone_1.0_iphoneos-arm.deb
+Size: 13305684 
+MD5sum: 5981e1c4a84f534700ffdb80c66af796
+SHA1: 926ec5f49b99590241490d7c44392c2c92612ef1
+Section: Fonts (iOS 9 Anemone Fonts)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.neotechanemone/index.html
+Name: Neo Tech Anemone
+
+
+
+
+
 
 
 
