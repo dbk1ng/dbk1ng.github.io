@@ -2113,6 +2113,38 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.bariolanemone/index.html
 Name: Bariol Anemone
 
+Package: com.loubeccabee.chamsloveios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.loubeccabee.chamsloveios9_1.0_iphoneos-arm.deb
+Size: 7493942
+MD5sum: 4de866b76963294b8d66443c70914244
+SHA1: af79268b109c0675957852a19932954b3c0637e3
+Section: Fonts (iOS 9 Swap Mode by LouBeccaBee)
+Description: A non profit port by LouBeccaBee for the jailbreak community.
+Author: LouBeccaBee <loubeccabee@outlook.com>
+Depiction: http://dbk1ng.github.io/Depic/com.loubeccabee.chamsloveios9/index.html
+Name: ChamsLove iOS 9
+
+Package: com.loubeccabee.kgfallingslowlyloveios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.loubeccabee.kgfallingslowlyloveios9_1.0_iphoneos-arm.deb
+Size: 11662534
+MD5sum: 1a0647670706513e97e31f4072cdfe19
+SHA1: 368b4dba4997701d0296cad6685c451700d1bf39
+Section: Fonts (iOS 9 Swap Mode by LouBeccaBee)
+Description: A non profit port by LouBeccaBee for the jailbreak community.
+Author: LouBeccaBee <loubeccabee@outlook.com>
+Depiction: http://dbk1ng.github.io/Depic/com.loubeccabee.kgfallingslowlyloveios9/index.html
+Name: KGFallingSlowlyLove iOS 9
+
+
+
+
+
 
 
 
