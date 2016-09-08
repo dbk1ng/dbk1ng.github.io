@@ -2197,6 +2197,22 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.neutrafacescanemone/index.html
 Name: Neutraface SC Anemone
 
+Package: com.dbk1ng.minimalstatusbarios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.minimalstatusbarios9_1.0_iphoneos-arm.deb
+Size: 25796
+MD5sum: 9969559db69b21f977eb87114573cca3
+SHA1: 59dcb6ec11c9aac7f2e2230d8ac1c5c3f200650b
+Section: Themes (Status Bar)
+Description: A Minimal Status Bar Theme for iOS 9 Devices.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.minimalstatusbarios9/index.html
+Name: Minimal Status Bar iOS 9
+
+
+
 
 
 
