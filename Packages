@@ -2225,6 +2225,22 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.circeanemone/index.html
 Name: Circe Anemone
 
+Package: com.dbk1ng.andreadockios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.andreadockios9_1.0_iphoneos-arm.deb
+Size: 19330
+MD5sum: d12f4b9b66f8556d3206eadec283d028
+SHA1: c51ad2710338ff2c97da9d8c75c832aa6ed50c1f
+Section: Themes (Dock)
+Description: Originally by Andrea Fedi, recreated for Anemone iOS 9 by Daniel B King
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.andreadockios9/index.html
+Name: Andrea Dock iOS 9
+
+
+
 
 
 
