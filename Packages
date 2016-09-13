@@ -2239,6 +2239,54 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.andreadockios9/index.html
 Name: Andrea Dock iOS 9
 
+Package: com.dbk1ng.circularanemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.circularanemone_1.0_iphoneos-arm.deb
+Size: 12020644
+MD5sum: 9e6d1e7abc9d5f8bdd1fca89c340dad3
+SHA1: 1d93327ee07504dc299f9c2a02aa933354cdc289
+Section: Fonts (iOS 9 Anemone Fonts)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.circularanemone/index.html
+Name: Circular Anemone
+
+Package: com.dbk1ng.vagroundedanemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.vagroundedanemone_1.0_iphoneos-arm.deb
+Size: 13230224
+MD5sum: 756d2ddf5a13889fa0ce477d1bfbe94d
+SHA1: de70c72674ff2bd86d7127476ddafe26f88d5e5f
+Section: Fonts (iOS 9 Anemone Fonts)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.vagroundedanemone/index.html
+Name: Vag Rounded Anemone
+
+Package: com.fontme.omnesanemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.fontme.omnesanemone_1.0_iphoneos-arm.deb
+Size: 11077930
+MD5sum: 761879f2fc6ca2758010ce37bc5b7f13
+SHA1: bc147320142f9c2ce0b93332bb10c088dce65433
+Section: Fonts (iOS 9 Anemone Fonts)
+Description: A non profit port by Mike Van Eeckhoutte for the jailbreak community.
+Author: Mike Van Eeckhoutte <mvan68@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.fontme.omnesanemone/index.html
+Name: Omnes Anemone
+
+
+
+
+
+
+
 
 
 
