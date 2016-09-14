@@ -2226,13 +2226,13 @@ Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.circeanemone/index.html
 Name: Circe Anemone
 
 Package: com.dbk1ng.andreadockios9
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: Daniel B King <danielbking@me.com>
 Filename: debs//com.dbk1ng.andreadockios9_1.0_iphoneos-arm.deb
-Size: 19330
-MD5sum: d12f4b9b66f8556d3206eadec283d028
-SHA1: c51ad2710338ff2c97da9d8c75c832aa6ed50c1f
+Size: 19342
+MD5sum: c0196b1afe82cb0c4159652cf227c0ec
+SHA1: 6e7e3b1938152622a0edb37cbc3c4ef8708baaa8
 Section: Themes (Dock)
 Description: Originally by Andrea Fedi, recreated for Anemone iOS 9 by Daniel B King
 Author: Daniel B King <danielbking@me.com>
@@ -2280,6 +2280,24 @@ Description: A non profit port by Mike Van Eeckhoutte for the jailbreak communit
 Author: Mike Van Eeckhoutte <mvan68@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.fontme.omnesanemone/index.html
 Name: Omnes Anemone
+
+Package: com.dbk1ng.glassdockios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.glassdockios9_1.0_iphoneos-arm.deb
+Size: 46700
+MD5sum: 8295b081fb442ab21c11395df5bef7e2
+SHA1: 76b3036ad94eea8ef486d1835485c83c972471f9
+Section: Themes (SpringBoard)
+Description: Glass Dock for your iPhone! Package includes light and dark versions. Tested on 6S Plus, 6S, & 5S
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.glassdockios9/index.html
+Name: Glass Dock iOS 9
+
+
+
+
 
 
 
