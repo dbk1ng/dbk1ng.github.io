@@ -2295,6 +2295,24 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.glassdockios9/index.html
 Name: Glass Dock iOS 9
 
+Package: com.evelyn.tttedsanemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.evelyn.tttedsanemone_1.0_iphoneos-arm.deb
+Size: 9581818
+MD5sum: 868c0d4a753052a4b0f304172e353106
+SHA1: 3c85c0d8cbbe7fc463ec9152f75102e4abc6610c
+Section: Fonts (iOS 9 Anemone Fonts)
+Description: A non profit port by Evelyn Wong for the jailbreak community.
+Author: Evelyn Wong <ev.ynam.w@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.evelyn.tttedsanemone/index.html
+Name: TT Teds Anemone
+
+
+
+
+
 
 
 
