@@ -2309,6 +2309,38 @@ Author: Evelyn Wong <ev.ynam.w@gmail.com>
 Depiction: http://dbk1ng.github.io/Depic/com.evelyn.tttedsanemone/index.html
 Name: TT Teds Anemone
 
+Package: com.evelyn.tttedsios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.evelyn.tttedsios9_1.0_iphoneos-arm.deb
+Size: 9581740
+MD5sum: dd5dac8c6203da46c31c283782388026
+SHA1: b2471559f8accb90129764a12aca5b0127317a7d 
+Section: Fonts (iOS 9 Swap Mode by Evelyn)
+Description: A non profit port by Evelyn Wong for the jailbreak community.
+Author: Evelyn Wong <ev.ynam.w@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.evelyn.tttedsios9/index.html
+Name: TT Teds iOS 9
+
+Package: com.evelyn.tttedsios8
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.evelyn.tttedsios8_1.0_iphoneos-arm.deb
+Size: 13294326
+MD5sum: 4cb90d5adbb932da7ec3a038dd0a3e67
+SHA1: d012ba11b909ed9835551ca8e0fbadf85009b250
+Section: Fonts (iOS 8 by Evelyn)
+Description: A non profit port by Evelyn Wong for the jailbreak community.
+Author: Evelyn Wong <ev.ynam.w@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.evelyn.tttedsios8/index.html
+Name: TT Teds iOS 8
+
+
+
+
+
 
 
 
