@@ -2296,13 +2296,13 @@ Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.glassdockios9/index.html
 Name: Glass Dock iOS 9
 
 Package: com.evelyn.tttedsanemone
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: Daniel B King <danielbking@me.com>
 Filename: debs//com.evelyn.tttedsanemone_1.0_iphoneos-arm.deb
-Size: 9581818
-MD5sum: 868c0d4a753052a4b0f304172e353106
-SHA1: 3c85c0d8cbbe7fc463ec9152f75102e4abc6610c
+Size: 10774104
+MD5sum: 687c587edf1229b502f68665cac9ffce
+SHA1: 60dd4171e2956ac5fdf05592188e9c2e3dc2454a
 Section: Fonts (iOS 9 Anemone Fonts)
 Description: A non profit port by Evelyn Wong for the jailbreak community.
 Author: Evelyn Wong <ev.ynam.w@gmail.com>
@@ -2310,13 +2310,13 @@ Depiction: http://dbk1ng.github.io/Depic/com.evelyn.tttedsanemone/index.html
 Name: TT Teds Anemone
 
 Package: com.evelyn.tttedsios9
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: Daniel B King <danielbking@me.com>
 Filename: debs//com.evelyn.tttedsios9_1.0_iphoneos-arm.deb
-Size: 9581740
-MD5sum: dd5dac8c6203da46c31c283782388026
-SHA1: b2471559f8accb90129764a12aca5b0127317a7d 
+Size: 10773708
+MD5sum: c1d9c02426edf9f0c63c1571b64339ba
+SHA1: 3ee840720d9b550c6351f7144ed79058b3064501
 Section: Fonts (iOS 9 Swap Mode by Evelyn)
 Description: A non profit port by Evelyn Wong for the jailbreak community.
 Author: Evelyn Wong <ev.ynam.w@gmail.com>
@@ -2336,6 +2336,8 @@ Description: A non profit port by Evelyn Wong for the jailbreak community.
 Author: Evelyn Wong <ev.ynam.w@gmail.com>
 Depiction: http://dbk1ng.github.io/Depic/com.evelyn.tttedsios8/index.html
 Name: TT Teds iOS 8
+
+
 
 
 
