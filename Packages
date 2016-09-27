@@ -1120,13 +1120,13 @@ Depiction: http://dbk1ng.github.io/Depic/com.drojaspro.avenirnextcondensedios9/i
 Name: Avenir Next Condensed iOS 9
 
 Package: com.dbk1ng.helveticaneueios9
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: Daniel B King <danielbking@me.com>
 Filename: debs//com.dbk1ng.helveticaneueios9_1.0_iphoneos-arm.deb
-Size: 12473316
-MD5sum: b57b5ff21afc62c0029764e68cb922ef
-SHA1: 95ab6fa2b866ab88adca2bb432d62006a04b4499
+Size: 13301654
+MD5sum: 7138d5a990101841b0baaa31053ab516
+SHA1: 1998e4faed54726d719ee4ba068607bd3ee51be2
 Section: Fonts (iOS 9 Swap Mode)
 Description: A non profit port by Daniel B King for the jailbreak community
 Author: Daniel B King <danielbking@me.com>
@@ -2336,6 +2336,22 @@ Description: A non profit port by Evelyn Wong for the jailbreak community.
 Author: Evelyn Wong <ev.ynam.w@gmail.com>
 Depiction: http://dbk1ng.github.io/Depic/com.evelyn.tttedsios8/index.html
 Name: TT Teds iOS 8
+
+Package: com.dbk1ng.helveticaneueanemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.helveticaneueanemone_1.0_iphoneos-arm.deb
+Size: 13301916
+MD5sum: dddbdd150b9df51893338ccbf048eb20
+SHA1: baa42ce8c1ac92efa529b1680b378d2048654616
+Section: Fonts (iOS 9 Anemone Fonts)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.helveticaneueanemone/index.html
+Name: Helvetica Neue Anemone
+
+
 
 
 
