@@ -2351,6 +2351,40 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.helveticaneueanemone/index.html
 Name: Helvetica Neue Anemone
 
+Package: com.dbk1ng.kievitproanemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.kievitproanemone_1.0_iphoneos-arm.deb
+Size: 13682614
+MD5sum: 686c39f9a887fd2ea2f313aad0224492
+SHA1: 08abefc93cb692a56f55128b17a6ce7987472d83
+Section: Fonts (iOS 9 Anemone Fonts)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.kievitproanemone/index.html
+Name: Kievit Pro Anemone
+
+Package: com.dbk1ng.kievitproios9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.kievitproios9_1.0_iphoneos-arm.deb
+Size: 13682280
+MD5sum: 27f6b8af2dbdce237931accc18855b31
+SHA1: b3b3f1371b4a4909a01fdbb25db09c5ae4d34122
+Section: Fonts (iOS 9 Swap Mode)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.kievitproios9/index.html
+Name: Kievit Pro iOS 9
+
+
+
+
+
+
+
 
 
 
