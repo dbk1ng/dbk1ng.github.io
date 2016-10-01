@@ -2408,13 +2408,13 @@ Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.sanfranciscoroundedanemone/i
 Name: San Francisco Rounded Anemone
 
 Package: com.dbk1ng.sanfranciscoroundedlightanemone
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: Daniel B King <danielbking@me.com>
 Filename: debs//com.dbk1ng.sanfranciscoroundedlightanemone_1.0_iphoneos-arm.deb
-Size: 17064934
-MD5sum: 9cd4774d718567ac15230de388695f64
-SHA1: 8d9c26eaf750d0fc7dc0c61ee1f33c31f02f5d63
+Size: 17932406
+MD5sum: 0b7cee8c0c160c615fe2c32dcf968e1e
+SHA1: a372a8d7e41596be7f93556d2ce597a7f3a298b9
 Section: Fonts (iOS 9 Anemone Fonts)
 Description: A non profit port by Daniel B King for the jailbreak community.
 Author: Daniel B King <danielbking@me.com>
@@ -2422,13 +2422,13 @@ Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.sanfranciscoroundedlightanem
 Name: San Francisco Rounded Light Anemone
 
 Package: com.dbk1ng.roboto2014anemone
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: Daniel B King <danielbking@me.com>
 Filename: debs//com.dbk1ng.roboto2014anemone_1.0_iphoneos-arm.deb
-Size: 20613196
-MD5sum: 14906d24a66ae08c35e041c307825f69
-SHA1: b75333ae847d7b498df6ad646f3452e452df61bb
+Size: 21457310
+MD5sum: cac44fe5fbcd0241f8437b0db8009841
+SHA1: b6c2af15b09abd5cfbd475becb2ee616c9b53b54
 Section: Fonts (iOS 9 Anemone Fonts)
 Description: A non profit port by Read Stanton & Daniel B King for the jailbreak community.
 Author: Read Stanton <decimation001@gmail.com>
@@ -2448,6 +2448,8 @@ Description: A non profit port by Read Stanton & Daniel B King for the jailbreak
 Author: Read Stanton <decimation001@gmail.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.robotolight2014anemone/index.html
 Name: Roboto Light 2014 Anemone
+
+
 
 
 
