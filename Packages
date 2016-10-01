@@ -2379,6 +2379,70 @@ Author: Daniel B King <danielbking@me.com>
 Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.kievitproios9/index.html
 Name: Kievit Pro iOS 9
 
+Package: com.dbk1ng.sanfranciscolightanemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.sanfranciscolightanemone_1.0_iphoneos-arm.deb
+Size: 9611898
+MD5sum: 4c34f8f9963170cc64ea179a16bf8db2
+SHA1: 0493f26b8dbd3ed3e35a0067f89acb90a2a6ecc3
+Section: Fonts (iOS 9 Anemone Fonts)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.sanfranciscolightanemone/index.html
+Name: San Francisco Light Anemone
+
+Package: com.dbk1ng.sanfranciscoroundedanemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.sanfranciscoroundedanemone_1.0_iphoneos-arm.deb
+Size: 14294052
+MD5sum: 4897ea614fa7b47ee23f4ef662abace3
+SHA1: 54e2cd99af82e9af49fdf1bec5dbb08646240b75
+Section: Fonts (iOS 9 Anemone Fonts)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.sanfranciscoroundedanemone/index.html
+Name: San Francisco Rounded Anemone
+
+Package: com.dbk1ng.sanfranciscoroundedlightanemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.sanfranciscoroundedlightanemone_1.0_iphoneos-arm.deb
+Size: 17064934
+MD5sum: 9cd4774d718567ac15230de388695f64
+SHA1: 8d9c26eaf750d0fc7dc0c61ee1f33c31f02f5d63
+Section: Fonts (iOS 9 Anemone Fonts)
+Description: A non profit port by Daniel B King for the jailbreak community.
+Author: Daniel B King <danielbking@me.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.sanfranciscoroundedlightanemone/index.html
+Name: San Francisco Rounded Light Anemone
+
+Package: com.dbk1ng.roboto2014anemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Daniel B King <danielbking@me.com>
+Filename: debs//com.dbk1ng.roboto2014anemone_1.0_iphoneos-arm.deb
+Size: 20613196
+MD5sum: 14906d24a66ae08c35e041c307825f69
+SHA1: b75333ae847d7b498df6ad646f3452e452df61bb
+Section: Fonts (iOS 9 Anemone Fonts)
+Description: A non profit port by Read Stanton & Daniel B King for the jailbreak community.
+Author: Read Stanton <decimation001@gmail.com>
+Depiction: http://dbk1ng.github.io/Depic/com.dbk1ng.roboto2014anemone/index.html
+Name: Roboto 2014 Anemone
+
+
+
+
+
+
+
+
+
 
 
 
